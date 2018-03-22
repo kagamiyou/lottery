@@ -1,0 +1,7 @@
+C:\Users\bevis\Desktop\lottery\lottery\bin\Debug\lottery.exe.config
+C:\Users\bevis\Desktop\lottery\lottery\bin\Debug\lottery.exe
+C:\Users\bevis\Desktop\lottery\lottery\bin\Debug\lottery.pdb
+C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
+C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
+C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.exe
+C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.pdb
