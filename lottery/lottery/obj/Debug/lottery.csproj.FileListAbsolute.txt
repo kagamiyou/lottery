@@ -5,3 +5,10 @@ C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyRe
 C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
 C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.exe
 C:\Users\bevis\Desktop\lottery\lottery\obj\Debug\lottery.pdb
+D:\GITHIB\lottery\lottery\lottery\bin\Debug\lottery.exe.config
+D:\GITHIB\lottery\lottery\lottery\bin\Debug\lottery.exe
+D:\GITHIB\lottery\lottery\lottery\bin\Debug\lottery.pdb
+D:\GITHIB\lottery\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
+D:\GITHIB\lottery\lottery\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
+D:\GITHIB\lottery\lottery\lottery\obj\Debug\lottery.exe
+D:\GITHIB\lottery\lottery\lottery\obj\Debug\lottery.pdb
