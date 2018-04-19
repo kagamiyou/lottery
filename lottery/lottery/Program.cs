@@ -26,7 +26,6 @@ namespace lottery
             //用迴圈判斷要產生幾組號碼
             while (time <= total)
             {
-
                 int r1 = rand.Next(0, 43);
                 int r2 = rand.Next(0, 43);
                 int r3 = rand.Next(0, 43);
